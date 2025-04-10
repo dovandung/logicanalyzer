@@ -1,5 +1,5 @@
 # LogicAnalyzer
-
+Add 2 cursor to measure delta time
 ## Orders
 - Direct order (based on availability): https://logicanalyzer.rf.gd
 - PCBWay order: https://www.pcbway.com/project/shareproject/LogicAnalyzer_V6_0_cc383781.html
